@@ -1,1 +1,1 @@
-This project contains how to donwload files from an FTP server. It navigates recursively through the folders to, then, download file by file, until it has downloades all, from within the source folder.
+This project contains how to donwload files from an FTP server. It navigates recursively through the folders to, then, download file by file, until it has downloaded all, from within the source folder.
